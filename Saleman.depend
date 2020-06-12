@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1591557151 source:c:\users\alesya\desktop\2 вар конс 2\saleman\main.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<string>
+	"Route.h"
+	"Shop.h"
+	"Warehouse.h"
+
+1591556838 c:\users\alesya\desktop\2 вар конс 2\saleman\route.h
+	<vector>
+	"Node.h"
+	"Shop.h"
+	"Warehouse.h"
+	"Link.h"
+	<cmath>
+
+1591556551 c:\users\alesya\desktop\2 вар конс 2\saleman\node.h
+
+1591556517 c:\users\alesya\desktop\2 вар конс 2\saleman\shop.h
+	"Node.h"
+
+1591556528 c:\users\alesya\desktop\2 вар конс 2\saleman\warehouse.h
+	"Node.h"
+
+1591556416 c:\users\alesya\desktop\2 вар конс 2\saleman\link.h
+	"Node.h"
+
+1591557624 source:c:\users\alesya\desktop\ИБС_11_Касаткина_О_Р_89603461747\saleman\main.cpp
+	<conio.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<string>
+	"Route.h"
+	"Shop.h"
+	"Warehouse.h"
+	<locale.h>
+
+1591556838 c:\users\alesya\desktop\ИБС_11_Касаткина_О_Р_89603461747\saleman\route.h
+	<vector>
+	"Node.h"
+	"Shop.h"
+	"Warehouse.h"
+	"Link.h"
+	<cmath>
+
+1591556551 c:\users\alesya\desktop\ИБС_11_Касаткина_О_Р_89603461747\saleman\node.h
+
+1591556517 c:\users\alesya\desktop\ИБС_11_Касаткина_О_Р_89603461747\saleman\shop.h
+	"Node.h"
+
+1591556528 c:\users\alesya\desktop\ИБС_11_Касаткина_О_Р_89603461747\saleman\warehouse.h
+	"Node.h"
+
+1591556416 c:\users\alesya\desktop\ИБС_11_Касаткина_О_Р_89603461747\saleman\link.h
+	"Node.h"
+
